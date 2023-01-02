@@ -1,5 +1,4 @@
 /* 1. Write C++ program to draw the following pattern. Use DDA line algorithm. Apply the concept of encapsulation */
-
 #include<graphics.h>
 #include<iostream>
 
