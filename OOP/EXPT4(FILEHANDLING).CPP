@@ -39,7 +39,7 @@ int main()
 	cout<<"\n How many employee information wanted to store:";
 
 	cin>>n;
-	cout<<"\n Enter information of ",n," employees (Enter name, emp_id, salary)";
+	cout<<"\n Enter information of "<<n<<" employees (Enter name, emp_id, salary)";
 	for(i=0;i<n;i++)
 	{
 		cout<<"\n Enter information of "<<i<<" employee";
